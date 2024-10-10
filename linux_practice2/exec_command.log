@@ -1,0 +1,134 @@
+    1  docker stop debian
+    2  docker stop debian
+    3  docker start debian
+    4  exit
+    5  cd /home
+    6  ls
+    7  cat README.md 
+    8  vi README.md 
+    9  vi README.md 
+   10  vi README.md 
+   11  vi README.md 
+   12  cat README.md 
+   13  vi README.md 
+   14  vi README.md 
+   15  vi README.md 
+   16  vi README.md 
+   17  vi README.md 
+   18  cat README.md 
+   19  cat README.md 
+   20  vi README.md 
+   21  cp README.md READMEcopy.md 
+   22  cat READMEcopy.md 
+   23  rm README.md
+   24  ls
+   25  rm READMEcopy.md README.md 
+   26  rm READMEcopy.md README.md 
+   27  mv READMEcopy.md README.md 
+   28  ls
+   29  touch README.md
+   30  echo '#Hello world' > README.md 
+   31  echo '# ServerLesson' > README.md 
+   32  echo '# hello world' > README.md 
+   33  echo '# Server Lesson' >> README.md 
+   34  echo '# -----------------' >> README.md 
+   35  cat README.md 
+   36  vim README.md 
+   37  cat README.md 
+   38  vim README.md 
+   39  cat README.md 
+   40  vim README.md 
+   41  ls -a
+   42  rm .README.md.swp 
+   43  cat README.md 
+   44  vim README.md 
+   45* 
+   46  cat README.md 
+   47  cat README.md 
+   48  vim README.md 
+   49  cd / 
+   50  /usr/lib/mozc/mozc_tool --mode=config_dialog
+   51  cd /home
+   52  vim README.md 
+   53  vim README.md 
+   54  cat README.md 
+   55  vim README.md 
+   56  cat README.md 
+   57  cd /root[
+   58  cd /root
+   59  cd /root
+   60  pwd
+   61  mkdir server_lesson && cd server_lesson
+   62  apt update -y && install -y git
+   63  git version
+   64  apt update -y && apt install -y git
+   65  git version
+   66  git init
+   67  git stat\us
+   68  git status
+   69  mkdir linux_practice1
+   70  ls
+   71  touch public/index.php
+   72  ls
+   73  cd linux_practice1/
+   74  mkdir public
+   75  cd public/
+   76  touch index.php
+   77  ls
+   78  cp index.php index_bk.php
+   79  ls
+   80  cd ../
+   81  ls
+   82  cp public tmp
+   83  cp -r public tmp
+   84  ls
+   85  ls tmp
+   86  ls
+   87  rm tmp/index_bk.php 
+   88  ls tmp
+   89  cd ../
+   90  touch README.md
+   91  ls
+   92  vim README.md 
+   93  cat README.md 
+   94  ls
+   95  ls 
+   96  mkdir linux_practice2/documents
+   97  mkdir -r linux_practice2/documents
+   98  mkdir -p linux_practice2/documents
+   99  ls
+  100  ls linux_practice2
+  101  cd linux_practice2
+  102  mkdir trash 
+  103  ls
+  104  cd documents/
+  105  ls
+  106  dd
+  107  for i in 123; do  echo $i; done
+  108  for i in 123; do  echo "$i \n"; done
+  109  for i in 123; do  echo "$i <br>"; done
+  110  for i in 123; do  echo $i; done
+  111  for i in 123333; do  echo $i; done
+  112  for i in {01..50}; do  touch gizumo${i}.md; done
+  113  ls
+  114  cd ../
+  115  ls]
+  116  ls
+  117  ls
+  118  ls documents/
+  119  mv documents/gizumo2* documents/gizumo3* documents/gizumo40.md trash/
+  120  ls
+  121  ls documents/
+  122  ls
+  123  ls trash
+  124  rm documents/gizumo2* documents/gizumo3* documents/gizumo40.md
+  125  rm documents/gizumo2* documents/gizumo3* documents/gizumo40.md
+  126  ls
+  127  ls documents/
+  128  ls
+  129  touch .gitignore
+  130  vim .gitignore 
+  131  cat .gitignore 
+  132  history 
+  133  history 10
+  134  history 300 > exec_command.log
